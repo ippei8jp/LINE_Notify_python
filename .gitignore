@@ -127,3 +127,15 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# for visual studio code
+.vscode/
+
+# temporary file
+*.log
+*.tmp*
+*.old*
+
+# access token file
+access_token.py
+
